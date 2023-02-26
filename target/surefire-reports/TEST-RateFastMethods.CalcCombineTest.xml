@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="RateFastMethods.CalcCombineTest" time="0.037" tests="5" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="RateFastMethods.CalcCombineTest" time="0.038" tests="5" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="18"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/usr/local/Cellar/openjdk/18.0.2.1/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/macpromdcorp2/Desktop/RateFast Projects/RateFast_Dev_Projects/RateFastDevTools/target/surefire/surefirebooter14750896443821260738.jar /Users/macpromdcorp2/Desktop/RateFast Projects/RateFast_Dev_Projects/RateFastDevTools/target/surefire 2023-02-26T16-45-25_588-jvmRun1 surefire17633553517257886475tmp surefire_05464656603853186047tmp"/>
+    <property name="sun.java.command" value="/Users/macpromdcorp2/Desktop/RateFast Projects/RateFast_Dev_Projects/RateFastDevTools/target/surefire/surefirebooter3928592797746899081.jar /Users/macpromdcorp2/Desktop/RateFast Projects/RateFast_Dev_Projects/RateFastDevTools/target/surefire 2023-02-26T16-58-08_496-jvmRun1 surefire14955822949300757858tmp surefire_018364171108923218371tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/macpromdcorp2/Desktop/RateFast Projects/RateFast_Dev_Projects/RateFastDevTools/target/test-classes:/Users/macpromdcorp2/Desktop/RateFast Projects/RateFast_Dev_Projects/RateFastDevTools/target/classes:/Users/macpromdcorp2/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar:/Users/macpromdcorp2/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/macpromdcorp2/.m2/repository/org/junit/jupiter/junit-jupiter/5.9.0/junit-jupiter-5.9.0.jar:/Users/macpromdcorp2/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.0/junit-jupiter-api-5.9.0.jar:/Users/macpromdcorp2/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/macpromdcorp2/.m2/repository/org/junit/platform/junit-platform-commons/1.9.0/junit-platform-commons-1.9.0.jar:/Users/macpromdcorp2/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/macpromdcorp2/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.9.0/junit-jupiter-params-5.9.0.jar:/Users/macpromdcorp2/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.0/junit-jupiter-engine-5.9.0.jar:/Users/macpromdcorp2/.m2/repository/org/junit/platform/junit-platform-engine/1.9.0/junit-platform-engine-1.9.0.jar:"/>
@@ -29,7 +29,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/macpromdcorp2/Desktop/RateFast Projects/RateFast_Dev_Projects/RateFastDevTools/target/surefire/surefirebooter14750896443821260738.jar"/>
+    <property name="surefire.real.class.path" value="/Users/macpromdcorp2/Desktop/RateFast Projects/RateFast_Dev_Projects/RateFastDevTools/target/surefire/surefirebooter3928592797746899081.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="18.0.2.1+0"/>
@@ -56,8 +56,8 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="62.0"/>
   </properties>
-  <testcase name="testWith2Values" classname="RateFastMethods.CalcCombineTest" time="0.018"/>
-  <testcase name="testWith3Values" classname="RateFastMethods.CalcCombineTest" time="0.003"/>
+  <testcase name="testWith2Values" classname="RateFastMethods.CalcCombineTest" time="0.02"/>
+  <testcase name="testWith3Values" classname="RateFastMethods.CalcCombineTest" time="0.004"/>
   <testcase name="testWith4Values" classname="RateFastMethods.CalcCombineTest" time="0.004"/>
   <testcase name="testWithNoValues" classname="RateFastMethods.CalcCombineTest" time="0.001"/>
   <testcase name="testWith1Value" classname="RateFastMethods.CalcCombineTest" time="0.003"/>
