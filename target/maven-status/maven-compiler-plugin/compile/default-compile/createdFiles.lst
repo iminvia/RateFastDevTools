@@ -1,7 +1,10 @@
 RateFastConstants/ImpairmentConversionConstants.class
 RateFastConstants/PainEntryConstants.class
+RateFastClasses/RatingType$2.class
 RateFastClasses/ImpairmentRating.class
+RateFastClasses/RatingType$1.class
 RateFastMethods/Calc$1.class
 RateFastClasses/RatingType.class
 RateFastMethods/Calc.class
+RateFastClasses/RatingType$3.class
 RateFastConstants/AdlConstants.class
